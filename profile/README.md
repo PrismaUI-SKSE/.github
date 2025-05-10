@@ -3,6 +3,6 @@
 
 ### Future plans:
 - Papyrus library
-- `RegisterErrorListener` method to catching console errors
+- `RegisterErrorListener` method to catching view loading or console errors
 - GPU rendering
 - Copy/Paste for char inputs
