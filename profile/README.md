@@ -1,6 +1,5 @@
-> Current version: IN DEVELOPMENT STAGE
-
-> Wiki: https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/wiki
+- Current version: IN DEVELOPMENT STAGE
+- Wiki: https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/wiki
 
 ### Future plans:
 - Papyrus library
