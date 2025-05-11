@@ -6,3 +6,4 @@
 - `RegisterErrorListener` method to catching view loading or console errors
 - GPU rendering
 - Copy/Paste for char inputs
+- `SetMenuFlags` method to change focus menu flags
