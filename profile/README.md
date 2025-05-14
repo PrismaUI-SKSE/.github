@@ -1,3 +1,3 @@
 - Current version: `0.1.0-alpha`
 - Wiki: https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/wiki
-- Download Plugin: `work in progress...`
+- Download Plugin: [Google Drive](https://drive.google.com/file/d/1j8n18iJJZulp64i-me2cNgcsdRRoi2Zm/view?usp=sharing)
