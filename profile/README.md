@@ -1,3 +1,3 @@
-- Current version: `IN DEVELOPMENT STAGE`
+- Current version: `0.1.0-alpha`
 - Wiki: https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/wiki
 - Download Plugin: `work in progress...`
