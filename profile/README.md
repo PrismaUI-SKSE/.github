@@ -1,3 +1,2 @@
-- Current version: `0.1.0-alpha (debug build)`
-- Wiki: https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/wiki
-- Download: [Releases](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/releases)
+- [Wiki](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/wiki)
+- [Download](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/releases)
