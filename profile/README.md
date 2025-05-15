@@ -1,3 +1,3 @@
-- [Get Started](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/wiki)
-- [Documentation](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/wiki/API)
+- [Get Started](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/wiki/1.-Get-Started)
+- [Documentation](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/wiki/2.-API)
 - [Download](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/releases)
