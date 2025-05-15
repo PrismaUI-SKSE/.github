@@ -1,2 +1,2 @@
-- [Wiki](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/wiki)
+- [Docs](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/wiki)
 - [Download](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/releases)
