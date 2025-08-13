@@ -4,6 +4,6 @@
 
 - [Documentation](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/wiki/2.-API)
 
-- [Issues](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/issues)
+- [Discussions](https://github.com/orgs/PrismaUI-SKSE/discussions)
 
 - [Download](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/releases)
