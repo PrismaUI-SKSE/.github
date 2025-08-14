@@ -7,3 +7,5 @@
 - [Discussions](https://github.com/orgs/PrismaUI-SKSE/discussions)
 
 - [Download](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/releases)
+
+**The source code will be open in upcoming releases.**
