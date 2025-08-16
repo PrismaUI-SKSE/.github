@@ -6,4 +6,6 @@
 
 - [Download](https://github.com/PrismaUI-SKSE/PrismaUI-Wiki/releases)
 
+**Join our [Discord Community](https://discord.gg/bawdketrFX) for Skyrim UI Modders**
+
 **The source code will be open in upcoming releases.**
