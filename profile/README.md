@@ -8,4 +8,4 @@
 
 **Join our [Discord Community](https://discord.gg/QYztzZY8RG) of Skyrim UI Modding.**
 
-> *❤️ Follow the organization and give ⭐ to repositories.*
+> ***❤️ Follow the organization and give ⭐ to repositories.***
