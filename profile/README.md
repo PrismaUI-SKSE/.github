@@ -1,4 +1,4 @@
-> DEMO: https://youtu.be/5yuIWa3MOtw
+- **DEMO: https://youtu.be/5yuIWa3MOtw**
 
 - [Get Started](https://www.prismaui.dev/)
 
